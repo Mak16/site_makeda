@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps:wght@400;700&family=Quicksand:wght@300;400;500;600;700&family=Shadows+Into+Light&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(230, 102, 198);
+    color: white;
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Shadows Into Light', cursive;
+}
